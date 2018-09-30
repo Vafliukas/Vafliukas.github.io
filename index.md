@@ -8,8 +8,7 @@ Keliaukite į [https://vafliukas.github.io/photography/](https://vafliukas.githu
 
 ### Vaizdo įrašai
 
-Keliaukite į [https://vafliukas.github.io/videos/](https://vafliukas.github.io/photography/) jei norite pamatyti vaizdo įrašų kūrybą.
+Keliaukite į [https://vafliukas.github.io/videos/](https://vafliukas.github.io/videos/) jei norite pamatyti vaizdo įrašų kūrybą.
 
-### Untitled
+## Ačiū už dėmesį!
 
-Ačiū už dėmesį.
